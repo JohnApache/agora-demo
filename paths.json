@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+          "agora-rtc-sdk": ["node_modules/@types/agora-rtc-sdk"]
+        }
+    }
+}
